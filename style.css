@@ -37,13 +37,18 @@ hr {
   padding: 0;
 }
 
-.wrapper {
+/*
+COMMENT IN THE CODE BELOW IF YOU WANT TO SEE THE PAGE WITH A GRID LAYOUT.
+NOTE THAT .WRAPPER IS A CLASS. YOU'LL MORE LEARN ABOUT CLASSES, THE BOX MODEL, AND 
+GRID LAYOUT THROUGHOUT THE REST OF THIS WEEK. 
+*/
+/* .wrapper {
   display: grid;
   grid-template-columns: repeat(3, 1fr);
   grid-column-gap: 25px;
   grid-row-gap: 25px;
 }
 
-.wrapper > div img {
+.wrapper > div {
   max-width: 100%;
-}
+} */
